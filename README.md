@@ -30,7 +30,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-4. Run Jupyter Notebook - HousingPrices.ipynb
+4. Run Jupyter Notebook - Charts.ipynb
 
 
 ## Project Introduction and Objective
