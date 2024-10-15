@@ -18,20 +18,13 @@ To run this project, follow these steps:
 git clone https://github.com/swapnilprakashpatil/aai500_6proj
 ```
 
-2. Install the required dependencies:
+2. Install the required dependencies in your virtual environment:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the main script:
-
-```bash
-python main.py
-```
-
-4. Run Jupyter Notebook - Charts.ipynb
-
+3. Run Jupyter Notebook - HousingPrices.ipynb
 
 ## Project Introduction and Objective
 
@@ -86,7 +79,7 @@ Our main research questions include:
 2. How accurately can we predict housing prices using machine learning models?
 3. Are there any geographical patterns in housing prices across California?
 
-We will be using various regression models, including Linear Regression, Random Forest, and Gradient Boosting, to predict housing prices. The project will involve data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
+We will be using various regression models, including Linear Regression, Multiple Regression, Ridge Regression, Lasso Regression, Polynomial Regression and Random Forest, to predict housing prices. The project will involve data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
 
 Challenges we anticipate include handling outliers, dealing with potential multicollinearity among features, and capturing complex relationships between variables and housing prices.
 

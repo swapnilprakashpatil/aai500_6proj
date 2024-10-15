@@ -2,3 +2,7 @@ numpy
 pandas
 matplotlib
 seaborn
+folium
+statsmodels
+sklearn
+scipy
