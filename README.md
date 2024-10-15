@@ -24,8 +24,7 @@ git clone https://github.com/swapnilprakashpatil/aai500_6proj
 pip install -r requirements.txt
 ```
 
-4. Run Jupyter Notebook - HousingPrices.ipynb
-
+3. Run Jupyter Notebook - HousingPrices.ipynb
 
 ## Project Introduction and Objective
 
