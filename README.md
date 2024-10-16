@@ -26,6 +26,9 @@ pip install -r requirements.txt
 
 3. Run Jupyter Notebook - HousingPrices.ipynb
 
+## Notebook Results
+> [California Housing Prices - Jupyter Notebook Results](https://swapnilprakashpatil.github.io/aai500_6proj/HousingPrices.html)
+
 ## Project Introduction and Objective
 
 The main purpose of this project is to do statistical analysis of housing prices and develop a machine learning model to predict housing prices in California based on various features. By analyzing historical housing data, we aim to create an accurate prediction model that can assist in real estate valuation and market analysis. This project has potential applications in the real estate industry, urban planning, and economic forecasting.
